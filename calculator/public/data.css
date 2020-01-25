@@ -1,0 +1,29 @@
+#root
+{
+    border: 1px dashed black;
+    height: 520px;
+    width: 430px;
+    text-align: center;
+    font-size: 28px;
+    margin-left: 37%;
+    margin-top: 50px;
+    box-shadow: 40px 40px 40px rgba(48, 45, 45, 0.459);
+}
+#root button
+{
+    background:lightblue;
+    font-size: 28px;
+    height: 60px;
+    width: 65px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px grey;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+#root input
+{
+    background: linen;
+    font-size: 30px;
+    height: 50px;
+    box-shadow: 5px 2px 5px 2px lightgrey;
+}
